@@ -19,7 +19,7 @@ public:
             vec.push_back(candidates[i]);
             combination_sum_helper(candidates,target-candidates[i],vec,ans,i);
             //negative hone pe backtrack karenge aur jo b current element hai use consider nahi karenge
-            vec.pop_back();
+            vec.pop_back(); //yaha pr hum back track kr rahe hai. jo b elements solution bna rahe hai yaa nahi b toh unhe pop kr do and then baaki ke solutions explore karo
 
         }
 
