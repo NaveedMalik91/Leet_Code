@@ -7,7 +7,7 @@ public:
         }
         unordered_map<int, bool> visited;
         for (int i = index; i < nums.size(); i++) {
-            if (visited.count(nums[i])) {
+            if (visited.count(nums[i]) > 0) {
                 continue;
             }
             visited[nums[i]] = true;
