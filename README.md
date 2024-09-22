@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/NaveedMalik91/Leet_Code/tree/master/0526-beautiful-arrangement) |
 | [1758-distribute-repeating-integers](https://github.com/NaveedMalik91/Leet_Code/tree/master/1758-distribute-repeating-integers) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
