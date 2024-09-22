@@ -13,19 +13,19 @@ public:
     ListNode* reverseList(ListNode* head) {
         ListNode* prev = NULL;
         ListNode* curr = head;
-        // while(curr!=NULL)
-        // {
-        //     ListNode* next_node = curr->next;
-        //     curr->next = prev;
-        //     prev = curr;
-        //     curr = next_node;
+        while(curr!=NULL)
+        {
+            ListNode* next_node = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next_node;
             
 
-        // }
-        // head = prev;
-        return reverseusingRec(curr,prev);
-        
-        
+        }
+        head = prev;
+        return head;
+
+       //for recursive-> return reverseusingRec(curr,prev); 
     }
 
     /* Recursive Solution*/
