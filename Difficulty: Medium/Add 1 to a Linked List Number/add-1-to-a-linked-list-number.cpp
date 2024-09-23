@@ -46,7 +46,7 @@ class Solution {
    Node* reverseList(Node* head) {
         Node* prev = NULL;
         Node* curr = head;
-        while(curr!=NULL) {
+        while(curr != NULL) {
             Node* next_node = curr->next;
             curr->next = prev;
             prev = curr;
@@ -67,14 +67,17 @@ class Solution {
            int totalSum = temp->data + carry;
            temp->data = totalSum % 10;
            carry = totalSum / 10;
-           if(temp->next == NULL) break;
-           temp = temp->next;
-       }
 
-       // If carry is still there after traversing the list
-       if(carry != 0) {
-           Node* newNode = new Node(carry);
-           temp->next = newNode;
+           // If no carry left, we can break early
+           if(carry == 0) break;
+
+           // If it's the last node and carry still exists
+           if(temp->next == NULL && carry != 0) {
+               temp->next = new Node(carry);
+               carry = 0;
+           }
+
+           temp = temp->next;
        }
 
        // Reverse the list again to restore original order
@@ -82,7 +85,6 @@ class Solution {
        return head;
     }
 };
-
 
 
 //{ Driver Code Starts.
