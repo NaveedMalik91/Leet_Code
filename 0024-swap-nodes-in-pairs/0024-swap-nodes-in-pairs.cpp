@@ -16,14 +16,21 @@ public:
         {
             return head;
         }
-        ListNode* firstNode = head;
-        ListNode* secondNode = head->next;
+        ListNode* first = head;
+        ListNode* second = head->next;
+        ListNode* second_next = second->next;
+        ListNode* Rec_ans = NULL;
 
-        // Swap the first two nodes
-        firstNode->next = swapPairs(secondNode->next);
-        secondNode->next = firstNode;
+       
+        
+        Rec_ans = swapPairs(second_next);
+        second->next = first;
+        first->next = Rec_ans;
+        
 
-        // `secondNode` becomes the new head of the swapped pair
-        return secondNode;
+        
+
+
+        return second;
     }
 };
