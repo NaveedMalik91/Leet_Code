@@ -75,6 +75,50 @@ class Solution {
         
         
     }
+    
+    /* Method-2
+    int getlength(SinglyLinkedListNode* head)
+    {
+        SinglyLinkedListNode* temp = head;
+        int len = 0;
+        while (temp!=NULL) {
+            len++;
+            temp = temp->next;
+        
+        }
+        return len;
+        
+    }
+    
+    
+    int getNode(SinglyLinkedListNode* head, int pos)
+    {
+        SinglyLinkedListNode* temp = head;
+        int len = getlength(head);
+        int tailPos = len - pos;
+        while (tailPos!=1 && temp!=NULL) {
+            tailPos--;
+            temp = temp->next;
+        
+        }
+        if (temp == NULL) {
+            return -1;
+        
+        }
+        return temp->data;
+    }
+    
+    
+    
+
+
+*/
+    
+    
+    
+    
+    
+    
 };
 
 
