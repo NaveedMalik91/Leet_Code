@@ -67,6 +67,10 @@ public:
             headA = headA->next;
             headB = headB->next;
         }
+        if(headA == NULL && headB == NULL && headA!=headB)
+        {
+            return NULL;
+        }
         
         return headA;
         
