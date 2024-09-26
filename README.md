@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0328-odd-even-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0908-middle-of-the-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/NaveedMalik91/Leet_Code/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/NaveedMalik91/Leet_Code/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/NaveedMalik91/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NaveedMalik91/Leet_Code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NaveedMalik91/Leet_Code/tree/master/0160-intersection-of-two-linked-lists) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
