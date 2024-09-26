@@ -15,7 +15,17 @@ public:
         {
             return NULL;
         }
-        if (!head->next) return (head->val == 0) ? nullptr : head; // Handle single node case
+        if (!head->next) // Handle single node case
+        {
+            if(head->val == 0)
+            {
+                return nullptr;
+            }
+            else
+            {
+                return head;
+            }
+        }
        
         ListNode* temp = head;
         ListNode* headNode = head;  // Initially, keep the head as headNode
