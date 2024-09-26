@@ -29,6 +29,8 @@ public:
         {
             return ans;
         }
+
+        //initial positions of nodes/critical points
         int CP1 = -1;
         int CP2 = -1;
         int i = 1;
@@ -44,13 +46,16 @@ public:
             {
                 isCP = false;
             }
-            //agr pehla critical point hai toh pos = 1 assign ho jayegi i.e. i = 1
-            //aur last CP b isi ko mark karege
+           //agr koi critical point milta hai toh fist and last CP current  i(pos) se assign kardo
             if(isCP && CP1 == -1)
             {
                 CP1 = i;
                 CP2 = i;
             }
+
+            //agr uske baad koi CP milta hai toh use CP2 kahenge aur uska 
+            //min distance nikalege uss CP K saath jo usse pehle sabse hoga
+            //most recent
             else if(isCP)
             {
                 min_dis = min(min_dis,i-CP2);
@@ -64,6 +69,8 @@ public:
             curr_nxt = curr_nxt->next;
 
         }
+
+        //ek he CP hoga toh phir b -1,-1
         if(CP1 == CP2)
         {
             return ans;
