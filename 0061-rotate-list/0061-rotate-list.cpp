@@ -20,13 +20,13 @@ public:
             temp = temp->next;
             length++;
         }
+    
+        temp->next = head;  // Make it circular
+        k = k % length;
         if(k==length)
         {
             return head;
         }
-
-        temp->next = head;  // Make it circular
-        k = k % length;
         int StepsTonewHead = length-k;
         ListNode* Newtail = head;
         for(int i = 1; i<StepsTonewHead;i++)
