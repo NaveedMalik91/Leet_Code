@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/NaveedMalik91/Leet_Code/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/NaveedMalik91/Leet_Code/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0234-palindrome-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/NaveedMalik91/Leet_Code/tree/master/2299-merge-nodes-in-between-zeros) |
+## Math
+|  |
+| ------- |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 <!---LeetCode Topics End-->
