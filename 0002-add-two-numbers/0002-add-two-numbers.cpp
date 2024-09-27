@@ -27,22 +27,26 @@ public:
         }
 
         // Handle remaining nodes in l2
-        while (ptr2 != NULL) {
+        while (ptr2 != NULL)
+        {
             // Create a new node in l1 for the l2's remaining node
             int sum = ptr2->val + carry;
-            if (ptr1_prev) {
-                ptr1_prev->next = new ListNode(
-                    sum % 10); // Create a new node if there's a carry
+            int digit = sum % 10;
+            if (ptr1_prev)
+            {
+                ptr1_prev->next = new ListNode(digit); 
                 ptr1_prev = ptr1_prev->next;
-            } else {
-                head = new ListNode(sum % 10); // If l1 was empty
+            }
+            else
+            {
+                head = new ListNode(digit); // If l1 was empty
                 ptr1_prev = head;
             }
             carry = sum / 10;
             ptr2 = ptr2->next; // Move to the next node in l2
         }
 
-        // If carry is left at the end
+        
         if (carry != 0) {
             ptr1_prev->next = new ListNode(carry);
         }
