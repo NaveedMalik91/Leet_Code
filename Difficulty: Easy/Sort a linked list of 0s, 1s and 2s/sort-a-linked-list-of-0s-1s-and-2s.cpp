@@ -49,47 +49,98 @@ class Solution {
   public:
     // Function to sort a linked list of 0s, 1s and 2s.
     Node* segregate(Node* head) {
-    
-        Node *temp = head;
-        int cnt1 = 0;
-        int cnt2 = 0;
-        int cnt3 = 0;
+            /*if (!head || !(head->next))
+                return head;
+            Node *temp = head;
+            int cnt1 = 0;
+            int cnt2 = 0;
+            int cnt3 = 0;
+            while(temp!=NULL)
+            {
+                if(temp->data == 0)
+                {
+                    cnt1++;
+                }
+                else if(temp->data == 1)
+                {
+                    cnt2++;
+                }
+                else{
+                    cnt3++;
+                }
+                temp = temp->next;
+            }
+            temp = head;
+            while(temp!=NULL && cnt1 !=0)
+            {
+                temp->data = 0;
+                temp = temp->next;
+                cnt1--;
+            }
+             while(temp!=NULL && cnt2 !=0)
+            {
+                temp->data = 1;
+                temp = temp->next;
+                cnt2--;
+            }
+             while(temp!=NULL && cnt3 !=0)
+            {
+                temp->data = 2;
+                temp = temp->next;
+                cnt3--;
+            }
+            return head;
+        }*/
+        
+        
+        //Approach2
+        Node* zeroes = new Node(0);
+        Node* ones = new Node(0);
+        Node* twos = new Node(0);
+        
+        Node* zero_head = zeroes;
+        Node* ones_head = ones;
+        Node* twos_head = twos;
+        
+        Node* temp = head;
         while(temp!=NULL)
         {
             if(temp->data == 0)
             {
-                cnt1++;
+                zero_head->next = temp;
+                zero_head = zero_head->next;
             }
             else if(temp->data == 1)
             {
-                cnt2++;
+                ones_head->next = temp;
+                ones_head = ones_head->next;
             }
-            else{
-                cnt3++;
+            else
+            {
+                twos_head->next = temp;
+                twos_head = twos_head->next;
             }
             temp = temp->next;
         }
-        temp = head;
-        while(temp!=NULL && cnt1 !=0)
+        //agr 1 yaa 1 wali list exist karti hai toh usw link karo 0 wali k saath
+        if(ones->next!=NULL)
         {
-            temp->data = 0;
-            temp = temp->next;
-            cnt1--;
+            zero_head->next = ones->next;
+            ones_head->next = twos->next;
         }
-         while(temp!=NULL && cnt2 !=0)
+        //nahi toh 0 aur 2 wali jod do
+        else
         {
-            temp->data = 1;
-            temp = temp->next;
-            cnt2--;
+            zero_head->next = twos->next;
         }
-         while(temp!=NULL && cnt3 !=0)
-        {
-            temp->data = 2;
-            temp = temp->next;
-            cnt3--;
-        }
+        
+        //1 aur 2 wali jod do
+        ones_head->next = twos->next;
+        twos_head->next = NULL;
+        head = zeroes->next;
         return head;
     }
+    
 };
 
 
