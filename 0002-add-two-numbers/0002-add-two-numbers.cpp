@@ -37,11 +37,11 @@ public:
                 ptr1_prev->next = new ListNode(digit); 
                 ptr1_prev = ptr1_prev->next;
             }
-            else
-            {
-                head = new ListNode(digit); // If l1 was empty
-                ptr1_prev = head;
-            }
+            // else
+            // {
+            //     head = new ListNode(digit); // If l1 was empty
+            //     ptr1_prev = head;
+            // }
             carry = sum / 10;
             ptr2 = ptr2->next; // Move to the next node in l2
         }
