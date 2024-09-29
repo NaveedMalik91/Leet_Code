@@ -38,26 +38,24 @@ public:
     }
     int largestRectangleArea(vector<int>& heights) {
         vector<int> next = NSE(heights);
-        for(int i = 0 ; i<next.size();i++)
+        for(int i = 0;i<next.size();i++)
         {
             if(next[i] == -1)
             {
-                next[i] = heights.size();
+                next[i] = next.size();
             }
         }
         vector<int> prev = PSE(heights);
-
-        vector<int> area(next.size());
-        for (int i = 0; i < next.size(); i++) {
-            int width = next[i] - prev[i] - 1;
+        int max_area = INT_MIN;
+        for(int i = 0;i<heights.size();i++)
+        {
+            
             int len = heights[i];
-            int currArea = len * width;
-            area[i] = currArea;
+            int width = next[i]-prev[i]-1; //formula
+            int area = len*width;
+            max_area = max(max_area,area);
         }
-        int maxi = INT_MIN;
-        for (int i = 0; i < area.size(); i++) {
-            maxi = max(maxi, area[i]);
-        }
-        return maxi;
+        return max_area;
+        
     }
 };
