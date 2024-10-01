@@ -7,15 +7,18 @@ public:
             if(ch == ']')
             {
                 string temp = "";
-                //jab tak characters hai toh unhe jodkar string banao
-                while(!st.empty() && !isdigit(st.top()[0]))
+                //jab tak characters aur opening bracket nahi hai
+                //toh char jodkar string banao
+                while(!st.empty() && st.top()!="[")
                 {
                     string top = st.top();
                     //opening bracket ko neglect karo
-                    temp+=top == "[" ? "" : top;
+                    temp+=top;
                     st.pop();
                    
                 }
+                //agr opening bracket aa jaye
+                st.pop();
 
                 //digits aaye toh ek final digit banao
                 string digit = "";
