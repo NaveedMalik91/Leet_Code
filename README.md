@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/NaveedMalik91/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/NaveedMalik91/Leet_Code/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0234-palindrome-linked-list) |
+| [0937-online-stock-span](https://github.com/NaveedMalik91/Leet_Code/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/NaveedMalik91/Leet_Code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NaveedMalik91/Leet_Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -145,13 +146,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/NaveedMalik91/Leet_Code/tree/master/0155-min-stack) |
+| [0937-online-stock-span](https://github.com/NaveedMalik91/Leet_Code/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/NaveedMalik91/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0937-online-stock-span](https://github.com/NaveedMalik91/Leet_Code/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/1072-next-greater-node-in-linked-list) |
 ## Greedy
 |  |
 | ------- |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NaveedMalik91/Leet_Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/NaveedMalik91/Leet_Code/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
