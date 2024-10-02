@@ -16,9 +16,11 @@ public:
     string simplifyPath(string path) {
         stack<string> st;
         int i = 0;
+
+        //Build karo single_dir ko pir me like /a
         while(i<path.size())
         {
-            //push path of directory in pair i.e /a
+           
             int start = i;
             int end = i+1;
             //next slash aane tk iterate karo
