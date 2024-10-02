@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/NaveedMalik91/Leet_Code/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/NaveedMalik91/Leet_Code/tree/master/0883-car-fleet) |
 | [1072-next-greater-node-in-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/1072-next-greater-node-in-linked-list) |
+| [1127-last-stone-weight](https://github.com/NaveedMalik91/Leet_Code/tree/master/1127-last-stone-weight) |
 | [1582-design-browser-history](https://github.com/NaveedMalik91/Leet_Code/tree/master/1582-design-browser-history) |
 | [1758-distribute-repeating-integers](https://github.com/NaveedMalik91/Leet_Code/tree/master/1758-distribute-repeating-integers) |
 | [1902-car-fleet-ii](https://github.com/NaveedMalik91/Leet_Code/tree/master/1902-car-fleet-ii) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1127-last-stone-weight](https://github.com/NaveedMalik91/Leet_Code/tree/master/1127-last-stone-weight) |
 | [1902-car-fleet-ii](https://github.com/NaveedMalik91/Leet_Code/tree/master/1902-car-fleet-ii) |
 ## Doubly-Linked List
 |  |
