@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/NaveedMalik91/Leet_Code/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/NaveedMalik91/Leet_Code/tree/master/0883-car-fleet) |
 | [0937-online-stock-span](https://github.com/NaveedMalik91/Leet_Code/tree/master/0937-online-stock-span) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/NaveedMalik91/Leet_Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/NaveedMalik91/Leet_Code/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1072-next-greater-node-in-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/NaveedMalik91/Leet_Code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/NaveedMalik91/Leet_Code/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/NaveedMalik91/Leet_Code/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/NaveedMalik91/Leet_Code/tree/master/0402-remove-k-digits) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/NaveedMalik91/Leet_Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/NaveedMalik91/Leet_Code/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/NaveedMalik91/Leet_Code/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NaveedMalik91/Leet_Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/NaveedMalik91/Leet_Code/tree/master/0402-remove-k-digits) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/NaveedMalik91/Leet_Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NaveedMalik91/Leet_Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Data Stream
 |  |
