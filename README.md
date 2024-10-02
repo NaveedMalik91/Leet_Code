@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/NaveedMalik91/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/NaveedMalik91/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0526-beautiful-arrangement](https://github.com/NaveedMalik91/Leet_Code/tree/master/0526-beautiful-arrangement) |
+| [0735-asteroid-collision](https://github.com/NaveedMalik91/Leet_Code/tree/master/0735-asteroid-collision) |
 | [1072-next-greater-node-in-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/1072-next-greater-node-in-linked-list) |
 | [1758-distribute-repeating-integers](https://github.com/NaveedMalik91/Leet_Code/tree/master/1758-distribute-repeating-integers) |
 ## Backtracking
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/NaveedMalik91/Leet_Code/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/NaveedMalik91/Leet_Code/tree/master/0394-decode-string) |
+| [0735-asteroid-collision](https://github.com/NaveedMalik91/Leet_Code/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/NaveedMalik91/Leet_Code/tree/master/0937-online-stock-span) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/NaveedMalik91/Leet_Code/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1072-next-greater-node-in-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/1072-next-greater-node-in-linked-list) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/NaveedMalik91/Leet_Code/tree/master/0735-asteroid-collision) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/NaveedMalik91/Leet_Code/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
