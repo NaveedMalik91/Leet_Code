@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/NaveedMalik91/Leet_Code/tree/master/0047-permutations-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/NaveedMalik91/Leet_Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NaveedMalik91/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/NaveedMalik91/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/NaveedMalik91/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0526-beautiful-arrangement](https://github.com/NaveedMalik91/Leet_Code/tree/master/0526-beautiful-arrangement) |
 | [1072-next-greater-node-in-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/1072-next-greater-node-in-linked-list) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/NaveedMalik91/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0526-beautiful-arrangement](https://github.com/NaveedMalik91/Leet_Code/tree/master/0526-beautiful-arrangement) |
 | [1758-distribute-repeating-integers](https://github.com/NaveedMalik91/Leet_Code/tree/master/1758-distribute-repeating-integers) |
 ## Bit Manipulation
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/NaveedMalik91/Leet_Code/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/NaveedMalik91/Leet_Code/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NaveedMalik91/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/NaveedMalik91/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/NaveedMalik91/Leet_Code/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/NaveedMalik91/Leet_Code/tree/master/0394-decode-string) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/NaveedMalik91/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/NaveedMalik91/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0937-online-stock-span](https://github.com/NaveedMalik91/Leet_Code/tree/master/0937-online-stock-span) |
 | [1072-next-greater-node-in-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/1072-next-greater-node-in-linked-list) |
 ## Greedy
@@ -168,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/NaveedMalik91/Leet_Code/tree/master/0937-online-stock-span) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/NaveedMalik91/Leet_Code/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
