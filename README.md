@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/NaveedMalik91/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/NaveedMalik91/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/NaveedMalik91/Leet_Code/tree/master/0088-merge-sorted-array) |
+| [0134-gas-station](https://github.com/NaveedMalik91/Leet_Code/tree/master/0134-gas-station) |
 | [0526-beautiful-arrangement](https://github.com/NaveedMalik91/Leet_Code/tree/master/0526-beautiful-arrangement) |
 | [0735-asteroid-collision](https://github.com/NaveedMalik91/Leet_Code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/NaveedMalik91/Leet_Code/tree/master/0739-daily-temperatures) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/NaveedMalik91/Leet_Code/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/NaveedMalik91/Leet_Code/tree/master/0402-remove-k-digits) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/NaveedMalik91/Leet_Code/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/NaveedMalik91/Leet_Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
