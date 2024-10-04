@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/NaveedMalik91/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/NaveedMalik91/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/NaveedMalik91/Leet_Code/tree/master/0134-gas-station) |
+| [0239-sliding-window-maximum](https://github.com/NaveedMalik91/Leet_Code/tree/master/0239-sliding-window-maximum) |
 | [0526-beautiful-arrangement](https://github.com/NaveedMalik91/Leet_Code/tree/master/0526-beautiful-arrangement) |
 | [0735-asteroid-collision](https://github.com/NaveedMalik91/Leet_Code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/NaveedMalik91/Leet_Code/tree/master/0739-daily-temperatures) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NaveedMalik91/Leet_Code/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/NaveedMalik91/Leet_Code/tree/master/0239-sliding-window-maximum) |
 ## Design
 |  |
 | ------- |
@@ -213,10 +215,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/NaveedMalik91/Leet_Code/tree/master/0239-sliding-window-maximum) |
 | [1127-last-stone-weight](https://github.com/NaveedMalik91/Leet_Code/tree/master/1127-last-stone-weight) |
 | [1902-car-fleet-ii](https://github.com/NaveedMalik91/Leet_Code/tree/master/1902-car-fleet-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [1582-design-browser-history](https://github.com/NaveedMalik91/Leet_Code/tree/master/1582-design-browser-history) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NaveedMalik91/Leet_Code/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/NaveedMalik91/Leet_Code/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
