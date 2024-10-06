@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/NaveedMalik91/Leet_Code/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/NaveedMalik91/Leet_Code/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/NaveedMalik91/Leet_Code/tree/master/0883-car-fleet) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/NaveedMalik91/Leet_Code/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1072-next-greater-node-in-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/1072-next-greater-node-in-linked-list) |
 | [1127-last-stone-weight](https://github.com/NaveedMalik91/Leet_Code/tree/master/1127-last-stone-weight) |
 | [1582-design-browser-history](https://github.com/NaveedMalik91/Leet_Code/tree/master/1582-design-browser-history) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/NaveedMalik91/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0148-sort-list) |
 | [0883-car-fleet](https://github.com/NaveedMalik91/Leet_Code/tree/master/0883-car-fleet) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/NaveedMalik91/Leet_Code/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Merge Sort
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/NaveedMalik91/Leet_Code/tree/master/0735-asteroid-collision) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/NaveedMalik91/Leet_Code/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/NaveedMalik91/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/NaveedMalik91/Leet_Code/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/NaveedMalik91/Leet_Code/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/NaveedMalik91/Leet_Code/tree/master/0239-sliding-window-maximum) |
 | [0969-number-of-recent-calls](https://github.com/NaveedMalik91/Leet_Code/tree/master/0969-number-of-recent-calls) |
+| [0987-reveal-cards-in-increasing-order](https://github.com/NaveedMalik91/Leet_Code/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/NaveedMalik91/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
