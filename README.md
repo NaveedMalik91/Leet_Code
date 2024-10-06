@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/NaveedMalik91/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NaveedMalik91/Leet_Code/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/NaveedMalik91/Leet_Code/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/NaveedMalik91/Leet_Code/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/NaveedMalik91/Leet_Code/tree/master/1582-design-browser-history) |
 ## Monotonic Stack
 |  |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/NaveedMalik91/Leet_Code/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/NaveedMalik91/Leet_Code/tree/master/0969-number-of-recent-calls) |
 | [1582-design-browser-history](https://github.com/NaveedMalik91/Leet_Code/tree/master/1582-design-browser-history) |
 ## Matrix
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/NaveedMalik91/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NaveedMalik91/Leet_Code/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/NaveedMalik91/Leet_Code/tree/master/0239-sliding-window-maximum) |
+| [0969-number-of-recent-calls](https://github.com/NaveedMalik91/Leet_Code/tree/master/0969-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
