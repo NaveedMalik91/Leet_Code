@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/NaveedMalik91/Leet_Code/tree/master/1582-design-browser-history) |
 | [1758-distribute-repeating-integers](https://github.com/NaveedMalik91/Leet_Code/tree/master/1758-distribute-repeating-integers) |
 | [1902-car-fleet-ii](https://github.com/NaveedMalik91/Leet_Code/tree/master/1902-car-fleet-ii) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/NaveedMalik91/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/NaveedMalik91/Leet_Code/tree/master/0394-decode-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/NaveedMalik91/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -155,12 +157,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/NaveedMalik91/Leet_Code/tree/master/0735-asteroid-collision) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/NaveedMalik91/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/NaveedMalik91/Leet_Code/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NaveedMalik91/Leet_Code/tree/master/0002-add-two-numbers) |
 | [1902-car-fleet-ii](https://github.com/NaveedMalik91/Leet_Code/tree/master/1902-car-fleet-ii) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/NaveedMalik91/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## String
 |  |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/NaveedMalik91/Leet_Code/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/NaveedMalik91/Leet_Code/tree/master/0239-sliding-window-maximum) |
 | [0969-number-of-recent-calls](https://github.com/NaveedMalik91/Leet_Code/tree/master/0969-number-of-recent-calls) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/NaveedMalik91/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Monotonic Queue
 |  |
 | ------- |
