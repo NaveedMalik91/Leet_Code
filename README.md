@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/NaveedMalik91/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/NaveedMalik91/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/NaveedMalik91/Leet_Code/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/NaveedMalik91/Leet_Code/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/NaveedMalik91/Leet_Code/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/NaveedMalik91/Leet_Code/tree/master/0402-remove-k-digits) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/NaveedMalik91/Leet_Code/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/NaveedMalik91/Leet_Code/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/NaveedMalik91/Leet_Code/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/NaveedMalik91/Leet_Code/tree/master/1582-design-browser-history) |
 ## Monotonic Stack
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/NaveedMalik91/Leet_Code/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/NaveedMalik91/Leet_Code/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
