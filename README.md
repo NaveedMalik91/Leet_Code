@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/NaveedMalik91/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/NaveedMalik91/Leet_Code/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/NaveedMalik91/Leet_Code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/NaveedMalik91/Leet_Code/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/NaveedMalik91/Leet_Code/tree/master/0239-sliding-window-maximum) |
 | [0526-beautiful-arrangement](https://github.com/NaveedMalik91/Leet_Code/tree/master/0526-beautiful-arrangement) |
 | [0735-asteroid-collision](https://github.com/NaveedMalik91/Leet_Code/tree/master/0735-asteroid-collision) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/NaveedMalik91/Leet_Code/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NaveedMalik91/Leet_Code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/NaveedMalik91/Leet_Code/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/NaveedMalik91/Leet_Code/tree/master/0344-reverse-string) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NaveedMalik91/Leet_Code/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/NaveedMalik91/Leet_Code/tree/master/0189-rotate-array) |
 | [1902-car-fleet-ii](https://github.com/NaveedMalik91/Leet_Code/tree/master/1902-car-fleet-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/NaveedMalik91/Leet_Code/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/2871-double-a-number-represented-as-a-linked-list) |
