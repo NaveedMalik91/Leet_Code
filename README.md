@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/NaveedMalik91/Leet_Code/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/NaveedMalik91/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/NaveedMalik91/Leet_Code/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/NaveedMalik91/Leet_Code/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/NaveedMalik91/Leet_Code/tree/master/0239-sliding-window-maximum) |
 | [0526-beautiful-arrangement](https://github.com/NaveedMalik91/Leet_Code/tree/master/0526-beautiful-arrangement) |
 | [0735-asteroid-collision](https://github.com/NaveedMalik91/Leet_Code/tree/master/0735-asteroid-collision) |
@@ -139,16 +140,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/NaveedMalik91/Leet_Code/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/NaveedMalik91/Leet_Code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NaveedMalik91/Leet_Code/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/NaveedMalik91/Leet_Code/tree/master/0169-majority-element) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/NaveedMalik91/Leet_Code/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/NaveedMalik91/Leet_Code/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/NaveedMalik91/Leet_Code/tree/master/0169-majority-element) |
 | [0883-car-fleet](https://github.com/NaveedMalik91/Leet_Code/tree/master/0883-car-fleet) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/NaveedMalik91/Leet_Code/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Merge Sort
@@ -264,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NaveedMalik91/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/NaveedMalik91/Leet_Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
