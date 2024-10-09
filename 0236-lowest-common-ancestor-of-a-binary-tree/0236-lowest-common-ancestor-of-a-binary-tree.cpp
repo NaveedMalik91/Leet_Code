@@ -29,19 +29,22 @@ public:
         TreeNode* leftans = lowestCommonAncestor(root->left,p,q);
         TreeNode* rightans = lowestCommonAncestor(root->right,p,q);
 
-        //case 1:
+        //case 1: left aur right me kuch nahi mila
         if(leftans == NULL && rightans==NULL)
         {
             return NULL;
         }
+        //case2: left me kuch nhi mila but right mil gya
         else if(leftans == NULL && rightans!=NULL)
         {
             return rightans;
         }
+        //case3: left me  mila but right nahi mila
         else if(leftans != NULL && rightans==NULL)
         {
             return leftans;
         }
+        //case 4: left aur right dono me mil gya toh jispr khade hai woh return karo
         else
         {
             return root;
