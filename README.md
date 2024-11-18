@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/NaveedMalik91/Leet_Code/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/NaveedMalik91/Leet_Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/NaveedMalik91/Leet_Code/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/NaveedMalik91/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/NaveedMalik91/Leet_Code/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/NaveedMalik91/Leet_Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/NaveedMalik91/Leet_Code/tree/master/0232-implement-queue-using-stacks) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NaveedMalik91/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/NaveedMalik91/Leet_Code/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NaveedMalik91/Leet_Code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NaveedMalik91/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NaveedMalik91/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/NaveedMalik91/Leet_Code/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NaveedMalik91/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/NaveedMalik91/Leet_Code/tree/master/0110-balanced-binary-tree) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/NaveedMalik91/Leet_Code/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/NaveedMalik91/Leet_Code/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/NaveedMalik91/Leet_Code/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/NaveedMalik91/Leet_Code/tree/master/0104-maximum-depth-of-binary-tree) |
