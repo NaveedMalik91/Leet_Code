@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/NaveedMalik91/Leet_Code/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NaveedMalik91/Leet_Code/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/NaveedMalik91/Leet_Code/tree/master/0169-majority-element) |
+| [0652-find-duplicate-subtrees](https://github.com/NaveedMalik91/Leet_Code/tree/master/0652-find-duplicate-subtrees) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/NaveedMalik91/Leet_Code/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NaveedMalik91/Leet_Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/NaveedMalik91/Leet_Code/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/NaveedMalik91/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/NaveedMalik91/Leet_Code/tree/master/0652-find-duplicate-subtrees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NaveedMalik91/Leet_Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/NaveedMalik91/Leet_Code/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/NaveedMalik91/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/NaveedMalik91/Leet_Code/tree/master/0652-find-duplicate-subtrees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/NaveedMalik91/Leet_Code/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/NaveedMalik91/Leet_Code/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/NaveedMalik91/Leet_Code/tree/master/0543-diameter-of-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/NaveedMalik91/Leet_Code/tree/master/0652-find-duplicate-subtrees) |
 ## Counting
 |  |
 | ------- |
